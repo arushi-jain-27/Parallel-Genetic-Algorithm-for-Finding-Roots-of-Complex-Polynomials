@@ -1,0 +1,1 @@
+# Parallel-Genetic-Algorithm-for-Finding-Roots-of-Complex-Polynomials
