@@ -1,0 +1,3 @@
+/mnt/c/Users/ARUSHI/Desktop/PGA/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ARUSHI/Desktop/PGA/build/CMakeFiles/Polynomial_Root_Finding_pGA.dir
+/mnt/c/Users/ARUSHI/Desktop/PGA/build/CMakeFiles/edit_cache.dir
