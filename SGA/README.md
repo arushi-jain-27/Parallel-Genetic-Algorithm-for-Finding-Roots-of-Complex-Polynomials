@@ -1,7 +1,7 @@
 # Polynomial-Root-Finding-pGA
 
-In terminal:
-<br>$ git clone https://github.com/tylerh111/Polynomial-Root-Finding-pGA/</br>
+Clone the repo.
+
 <br>$ mkdir build/</br>
 <br>$ cd build/</br>
 <br>$ cmake ../</br>
